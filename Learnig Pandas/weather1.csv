@@ -1,0 +1,7 @@
+date,temperature,windSpeed,Status
+20200506,35.645,10.3535,Sunny
+20200509,,,
+20200510,30.454,,rainy
+20200511,,6.564,cloudy
+20200512,13.454,19.3454,rainy
+20200513,23.4,,sunny

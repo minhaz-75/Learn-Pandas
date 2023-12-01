@@ -1,0 +1,13 @@
+date,city,temperature,windspeed,time
+01/03/20,mumbai,43,9,morning
+01/03/20,mumbai,42,11,evening
+01/03/20,delhi,40,8,morning
+01/03/20,delhi,42,8,evening
+01/03/20,kolkata,38,6,morning
+01/03/20,kolkata,37,8,evening
+12/01/19,mumbai,22,12,morning
+12/01/19,mumbai,20,10,evening
+12/01/19,delhi,18,9,morning
+12/01/19,delhi,19,7,evening
+12/01/19,kolkata,21,7,morning
+12/01/19,kolkata,23,10,evening
